@@ -16,20 +16,20 @@ Welcome to the **Notes App**! This web app allows you to create, update, delete,
 - **Database**: MySQL 💾
 - **Syntax Highlighting**: [Highlight.js](https://highlightjs.org/) 💡
 
-🎮 How It Works
+##🎮 How It Works
 Create 📝: Add a new note or code snippet using the form.
 Read 📖: View all your notes and code snippets on the homepage.
 Update 🛠️: Click the update button to modify an existing note or snippet.
 Delete 🗑️: Remove notes or snippets that are no longer needed.
 Search 🔍: Type in keywords to quickly find relevant notes!
 
-🎯 Future Enhancements
+##🎯 Future Enhancements
 🔐 User Authentication: Keep your notes secure with login functionality.
 🖋️ Rich Text Editor: Add formatting options for your notes.
 📜 Export Options: Export notes to PDF or Markdown for easy sharing.
 🏷️ Tags & Categories: Organize notes by topics or tags.
 
-🚀 Contributions
+##🚀 Contributions
 Feel free to submit issues or pull requests to enhance this project! Contributions are always welcome. 😊
 
-⭐ If you like this project, don't forget to give it a star on GitHub! ⭐
+##⭐ If you like this project, don't forget to give it a star on GitHub! ⭐
